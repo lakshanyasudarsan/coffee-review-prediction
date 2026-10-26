@@ -1,0 +1,11 @@
+## requirements.txt
+
+Create this at the **root level**:
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
