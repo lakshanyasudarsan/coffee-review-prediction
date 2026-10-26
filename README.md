@@ -61,10 +61,3 @@ coffee-review-prediction/
 └── requirements.txt
 
 
-What I Learned
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Feature selection and preparation
-- Regression modelling
-- Model comparison
-- Machine learning evaluation metrics
